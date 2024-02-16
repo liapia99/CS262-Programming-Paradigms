@@ -2,7 +2,7 @@
 
 - This repository covers major paradigms using Python in computing programming, including imperative, functional, logic, and object-oriented.
 - We first started with Javascript but we then transitioned to Python.
-- 
+
 From this repository:
 - Acquire a general understanding of different programming paradigms and related approaches.
 - Assess how multiple programming paradigms relate to each other and impact program development experience.
